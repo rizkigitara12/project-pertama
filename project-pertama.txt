@@ -2,7 +2,6 @@ Macam-macam project yang pernah saya buat
 - Aplikasi Makanan php native
 - Aplikasi MAkanan dengan laravel
 - aplikasi absensi
-- aplikasi penyewaan villa
 - Aplikasi Company profile
 - Aplikasi Pemesanan Tiket
 - Aplikasi Gudang
