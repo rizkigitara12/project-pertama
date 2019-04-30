@@ -4,3 +4,5 @@ Macam-macam project yang pernah saya buat
 - aplikasi absensi
 - aplikasi penyewaan villa
 - Aplikasi Company profile
+- Aplikasi Pemesanan Tiket
+- Aplikasi Gudang
